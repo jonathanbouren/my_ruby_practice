@@ -1,8 +1,31 @@
 =begin
 Ruby program to find the factorial of a given number.
- 5! = 5*4*3*2*1, which will be equal to 120.
+ 5! = 1*2*3*4*5, which will be equal to 120.
 =end
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=begin
 puts "Enter the number:"
 num=gets.chomp.to_i
 
@@ -17,3 +40,4 @@ else
 	end
 end
 		puts "factorial of #{num} is #{fact}"
+=end

@@ -1,8 +1,52 @@
 =begin
-Given the code below, use a while loop to print "Hello!" twice.
+Write a program that requires a username and password. It will respond with a generic error message if one is correct but will not tell the user which is which.
 =end
 
-def greeting
-  puts 'Hello!'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=begin
+username = "Jdog"
+password = "WordOfDog"
+
+loop do
+  puts "Please provide your username:"
+  uname = gets.chomp
+  puts "Please provide your password:"
+  pword = gets.chomp
+  break if uname == username && pword == password
+  if uname != username || pword != password
+    puts "Incorrect, try again. "
+
+  end
 end
-number_of_greetings = 2
+puts "Welcome!"
+=end
