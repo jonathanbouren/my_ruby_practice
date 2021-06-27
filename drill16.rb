@@ -32,7 +32,6 @@ Write a program that requires a username and password. It will respond with a ge
 
 
 
-
 =begin
 username = "Jdog"
 password = "WordOfDog"

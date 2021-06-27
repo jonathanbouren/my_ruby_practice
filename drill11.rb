@@ -6,6 +6,21 @@ contains 5 numbers.
 
 
 
+  numbers = []
+  loop do
+    puts 'Enter any number:'
+    input = gets.chomp.to_i
+    
+  end
+  print numbers
+
+
+
+
+
+
+
+=begin
 numbers = []
 loop do
   puts 'Enter any number:'
@@ -13,8 +28,7 @@ loop do
 
 end
 print numbers
-
-
+=end
 
 
 

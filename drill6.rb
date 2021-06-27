@@ -8,6 +8,7 @@ when the user inputs 'yes'.
 
 loop do
   puts 'Should I stop looping?'
+
 end
 
 

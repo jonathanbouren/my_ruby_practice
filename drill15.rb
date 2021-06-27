@@ -7,15 +7,14 @@ Print "5 was reached!" before breaking out of the loop.
 =end
 
 
-number_a = 0
-number_b = 0
+  number_a = 0
+  number_b = 0
 
-loop do
+  loop do
 
-  puts number_a += rand(2)
-  puts number_b += rand(2)
+    puts number_a += rand(2)
+    puts number_b += rand(2)
 
-break
 end
 
 
@@ -52,6 +51,7 @@ next unless number_a == 5 || number_b == 5
 break
 end
 =end
+=begin
 number_a = 0
 number_b = 0
 
@@ -63,3 +63,4 @@ loop do
 next unless number_a == 5 || number_b == 5
 break
 end
+=end

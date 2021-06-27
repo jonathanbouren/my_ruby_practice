@@ -3,6 +3,14 @@ Ruby program to find the factorial of a given number.
  5! = 1*2*3*4*5, which will be equal to 120.
 =end
 
+puts "Enter the number you would like to factor."
+num = gets.chomp.to_i
+
+
+
+
+
+
 
 
 

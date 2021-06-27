@@ -3,9 +3,7 @@ Using next,
 modify the code below so that it only prints even numbers.
 =end
 
-number = 0
+  number = 0
 
-until number == 10
-  number += 1
- end
-end
+  until number == 10
+  
